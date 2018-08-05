@@ -1,5 +1,5 @@
 #!groovy
-#amir
+
 import groovy.json.JsonOutput
 import jenkins.model.*
 
